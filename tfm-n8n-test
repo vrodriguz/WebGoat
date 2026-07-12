@@ -1,0 +1,1 @@
+Prueba de escritura desde n8n para el TFM.  Este archivo fue creado automáticamente para validar la integración entre n8n y GitHub.
